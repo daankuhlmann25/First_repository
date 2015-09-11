@@ -1,0 +1,5 @@
+/* Contruction css */
+
+body          { background: #141622 !important; }
+.construction { margin: auto auto; width: 100%; height: auto; max-width: 1294px; }
+.test { float:left; }
